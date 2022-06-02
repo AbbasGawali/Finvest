@@ -83,6 +83,7 @@ li a:hover{
     text-align: center;
     padding: 0 10px;
     background-color: #cbe2ff;
+    flex-wrap: wrap;
 
 }
 .nav-icons i{
